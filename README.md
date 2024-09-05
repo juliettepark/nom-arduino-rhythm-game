@@ -18,3 +18,9 @@ you will hear the Super Mario Bros theme song!
 4. Custom sprites using bitmaps
 5. Physical components: OLED display, Joystick, Piezo Buzzer, and LED components
 6. Haptic feedback using vibromotors
+
+## Demo!
+![](https://github.com/juliettepark/nom-arduino-rhythm-game/blob/main/nom_demo.gif)
+
+**See here for a complete walkthrough of game features**
+![Full Walkthrough](https://drive.google.com/file/d/1iF9XyefXakXOqmrgItujI1h809cTh3G3/view?usp=sharing)
