@@ -5,6 +5,8 @@ In this game, you control a husky puppy who wants to eat as many pancakes as pos
 Catch the pancakes as they fall from the sky to unlock a "music note". Altogether, 
 you will hear the Super Mario Bros theme song!
 
+![](https://github.com/juliettepark/nom-arduino-rhythm-game/blob/main/nom_demo.gif)
+
 ## Game Features
 1. Levels: The more rounds you play, the faster the pancakes fall!
 2. Double Point Time: The blue LED will turn on randomly for several seconds. During this time, each pancake is worth double points.
@@ -18,8 +20,5 @@ you will hear the Super Mario Bros theme song!
 4. Custom sprites using bitmaps
 5. Physical components: OLED display, Joystick, Piezo Buzzer, and LED components
 6. Haptic feedback using vibromotors
-
-## Demo!
-![](https://github.com/juliettepark/nom-arduino-rhythm-game/blob/main/nom_demo.gif)
 
 **See here for a [Full Walkthrough](https://drive.google.com/file/d/1iF9XyefXakXOqmrgItujI1h809cTh3G3/view?usp=sharing) of game features**
