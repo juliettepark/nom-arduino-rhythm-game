@@ -22,5 +22,4 @@ you will hear the Super Mario Bros theme song!
 ## Demo!
 ![](https://github.com/juliettepark/nom-arduino-rhythm-game/blob/main/nom_demo.gif)
 
-**See here for a complete walkthrough of game features**
-![Full Walkthrough](https://drive.google.com/file/d/1iF9XyefXakXOqmrgItujI1h809cTh3G3/view?usp=sharing)
+**See here for a [Full Walkthrough](https://drive.google.com/file/d/1iF9XyefXakXOqmrgItujI1h809cTh3G3/view?usp=sharing) of game features**
